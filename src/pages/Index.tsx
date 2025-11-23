@@ -124,7 +124,7 @@ const Index = () => {
                         onChange={(e) =>
                           setNewSupplier({ ...newSupplier, name: e.target.value })
                         }
-                        placeholder="ООО "Название""
+                        placeholder='ООО "Название"'
                       />
                     </div>
                     <div className="space-y-2">
